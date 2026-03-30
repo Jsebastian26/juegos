@@ -1,5 +1,5 @@
 while True:
-    print("\n--- CRUD ESTUDIANTES ---")
+    print("\n")
     print("1. Agregar")
     print("2. Mostrar")
     print("3. Actualizar")
